@@ -115,8 +115,10 @@ address.
 {% endif %}
 {% if page.latitude and page.longitude and online == "false" %}
 
+{% comment %}
 begin: {{ begin_address }}
 online: {{ online }}
+{% endcomment %}
 
 <p id="where">
   <strong>Where:</strong>
