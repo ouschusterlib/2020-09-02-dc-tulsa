@@ -224,10 +224,10 @@ Display the contact email address set in the configuration file.
 <hr/>
 
 <h2 id="general">Register Here</h2>
-<p>The sessions all build on each other and we recommend attending all. However, you can choose to attend only one or two of the workshops; attendance at all four workshops is not mandatory.</p>
-<p><a href="https://ou-tulsa.libcal.com/event/6920996">Register for Wednesday, September 2, 10am-12pm: Data organization in spreadsheets</a></p>
-<p><a href="https://ou-tulsa.libcal.com/event/6920997">Register for Wednesday, September 9, 10am-12pm: OpenRefine for data cleaning</a></p>
-<p><a href="https://ou-tulsa.libcal.com/event/6920998">Register for Wednesday, September 16 and Wednesday, September 23, 10am-12pm: Data management in SQL</a></p>
+<p id="where">The sessions all build on each other and we recommend attending all. However, you can choose to attend only one or two of the workshops; attendance at all four workshops is not mandatory.</p>
+<p id="where"><a href="https://ou-tulsa.libcal.com/event/6920996">Register for Wednesday, September 2, 10am-12pm: Data organization in spreadsheets</a></p>
+<p id="where"><a href="https://ou-tulsa.libcal.com/event/6920997">Register for Wednesday, September 9, 10am-12pm: OpenRefine for data cleaning</a></p>
+<p id="where"><a href="https://ou-tulsa.libcal.com/event/6920998">Register for Wednesday, September 16 and Wednesday, September 23, 10am-12pm: Data management in SQL</a></p>
   
 {% comment%}
 CODE OF CONDUCT
