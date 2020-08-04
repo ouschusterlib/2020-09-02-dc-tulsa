@@ -66,8 +66,10 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+<h2 id="general">Register Here</h2>
 
 <h2 id="general">General Information</h2>
+<p>The sessions all build on each other and we recommend attending all. However, you can choose to attend only one or two of the workshops; attendance at all four workshops is not mandatory.</p>
 
 {% comment %}
 INTRODUCTION
