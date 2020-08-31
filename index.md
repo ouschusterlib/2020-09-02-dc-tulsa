@@ -355,7 +355,7 @@ please preview your site before committing, and make sure to run
   you will need access to the software described below.
   In addition, you will need an up-to-date web browser.
 </p>
-<p>Please note that we will be using the Ecology curriculum and software for the Data Management with SQL lesson. Please download DB Browser for SQL as instructed in the setup. However, you should download the ecology dataset, <a href="https://datacarpentry.org/sql-ecology-lesson/setup.html">available here</a>, rather than the social sciences dataset indicated on the setup page.
+<p><strong>Please note that we will be using the Ecology curriculum and software for the Data Management with SQL lesson.</strong> Please download DB Browser for SQL as instructed in the setup. However, you should download the ecology dataset, <a href="https://datacarpentry.org/sql-ecology-lesson/setup.html">available here</a>, rather than the social sciences dataset indicated on the setup page.
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
